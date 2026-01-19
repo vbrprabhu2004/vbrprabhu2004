@@ -53,16 +53,8 @@ Final Year Computer Science Student | Software Engineer | Web Developer | AI & M
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
 
-<a href="https://www.instagram.com/ramanath_prabhu_/" target="_blank">
+<a href="https://www.instagram.com/ft._prabhu/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://leetcode.com/u/Ramanath_Prabhu_V_B/" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/vbrprabhu2004" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" height="30" width="40"/>
 </a>
 </p>
 
