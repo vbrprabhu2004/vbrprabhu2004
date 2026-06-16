@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ramanath Prabhu V B</h1>
 <h3 align="center">
-Final Year Computer Science Student | Software Engineer | Web Developer | AI & Machine Learning Enthusiast
+🎓 Final Year CSE Undergrad | 💻 Aspiring Software & Web Developer | 🤖 AI & ML Enthusiast
 </h3>
 
 ---
 
-- 🎓 Final Year **B.E. Computer Science** student at **Madras Institute of Technology, Anna University**
-- 🩺 Worked on **Heart Murmur Detection & Clinical Risk Prediction**
-- 🌐 Portfolio: https://vbrprabhu2004.github.io/VBRP-Portfolio/
-- 👨‍💻 GitHub: https://github.com/vbrprabhu2004
+- 🎓 Completed **B.E. Computer Science** at **Anna University - MIT Campus, Chennai** in the year of **2026**.
+- 💻 Passionate about Software Development, Backend Engineering, Artificial Intelligence and Machine Learning.
+- 🚀 Recently completed a **SDE Internship** at **Zentropy Technologies, Chennai**.
+- ⚡ Worked on backend systems using Python, PostgreSQL and Apache Kafka.
+- 🌐 Portfolio: **https://vbrprabhu2004.github.io/VBRP-Portfolio/**
+- 👨‍💻 GitHub: **https://github.com/vbrprabhu2004**
 - 📫 Reach me at: **vbrprabhu2004@gmail.com**
-- 📄 LinkedIn: http://www.linkedin.com/in/ramanathprabhu-vb
+- 📄 LinkedIn: http:**//www.linkedin.com/in/ramanathprabhu-vb**
 
 ---
 
