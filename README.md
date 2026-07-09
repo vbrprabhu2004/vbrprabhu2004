@@ -12,7 +12,7 @@
 - 🌐 Portfolio: **https://vbrprabhu2004.github.io/VBRP-Portfolio/**
 - 👨‍💻 GitHub: **https://github.com/vbrprabhu2004**
 - 📫 Reach me at: **vbrprabhu2004@gmail.com**
-- 📄 LinkedIn: http:**//www.linkedin.com/in/ramanathprabhu-vb**
+- 📄 LinkedIn: **http://www.linkedin.com/in/ramanathprabhu-vb**
 
 ---
 
