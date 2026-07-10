@@ -74,6 +74,10 @@
 <a href="https://www.instagram.com/ramanath_prabhu_/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
+
+<a href="https://vbrp-new-portfolio.vercel.app/" target="_blank">
+<img src="https://www.vecteezy.com/vector-art/24544457-initial-unique-creative-letter-rp-logo-icon-design-concept-vector-symbol" height="30" width="40"/>
+</a>
 </p>
 
 ---
