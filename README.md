@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ramanath Prabhu V B</h1>
 <h3 align="center">
-🎓 Final Year CSE Undergrad | 💻 Aspiring Software & Web Developer | 🤖 AI & ML Enthusiast
+💻 Aspiring Software & Web Developer | 🤖 AI & ML Enthusiast | 🚀 Aspiring Tech Entrepreneur
 </h3>
 
 ---
 
 - 🎓 Completed **B.E. Computer Science** at **Anna University - MIT Campus, Chennai** in the year of **2026**.
 - 💻 Passionate about Software Development, Backend Engineering, Artificial Intelligence and Machine Learning.
-- 🚀 Recently completed a **SDE Internship** at **Zentropy Technologies, Chennai**.
+- 🚀 Recently completed a 5-month **SDE Internship** at **Zentropy Technologies, Chennai**.
 - ⚡ Worked on backend systems using Python, PostgreSQL and Apache Kafka.
-- 🌐 Portfolio: **https://vbrprabhu2004.github.io/VBRP-Portfolio/**
+- 🌐 Portfolio: **https://vbrp-new-portfolio.vercel.app/**
 - 👨‍💻 GitHub: **https://github.com/vbrprabhu2004**
 - 📫 Reach me at: **vbrprabhu2004@gmail.com**
 - 📄 LinkedIn: **http://www.linkedin.com/in/ramanathprabhu-vb**
