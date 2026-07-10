@@ -65,7 +65,7 @@
 ### 📊 Languages Used (GitHub %)
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrprabhu2004&layout=compact&langs_count=8&cache_seconds=1800"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vbrprabhu2004&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
