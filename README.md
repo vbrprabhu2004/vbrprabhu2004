@@ -61,8 +61,8 @@
 <a href="https://www.canva.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40"/>
 </a>
-
 </p>
+
 ---
 
 ### 🌐 Connect with Me
