@@ -76,7 +76,7 @@
 </a>
 
 <a href="https://vbrp-new-portfolio.vercel.app/" target="_blank">
-<img src="https://www.shutterstock.com/image-vector/unique-creative-letter-rp-logo-icon-2130901916" height="30" width="40"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/024/544/457/small_2x/initial-unique-creative-letter-rp-logo-icon-design-concept-symbol-vector.jpg" height="30" width="40"/>
 </a>
 </p>
 
