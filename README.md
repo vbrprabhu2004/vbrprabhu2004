@@ -76,7 +76,7 @@
 </a>
 
 <a href="https://vbrp-new-portfolio.vercel.app/" target="_blank">
-<img src="https://t4.ftcdn.net/jpg/04/21/54/73/360_F_421547394_NxZTFN4WNWdlcrO5gPDcZhUaMAT5Pkjc.jpg" height="30" width="40"/>
+<img src="https://i.pinimg.com/564x/dc/ec/dd/dcecddeb31d356a2fc7a7559dcfa8b5f.jpg" height="30" width="40"/>
 </a>
 </p>
 
