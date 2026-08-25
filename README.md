@@ -83,9 +83,10 @@
 ---
 
 ### 📊 Languages Used (GitHub %)
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbrprabhu2004&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+    src="./assets/github-languages.svg"
+    alt="GitHub Language Composition"
   />
 </p>
