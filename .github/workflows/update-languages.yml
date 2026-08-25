@@ -2,8 +2,10 @@ name: Update GitHub Language Composition
 
 on:
   schedule:
+    # Run every day at 00:00 UTC
     - cron: "0 0 * * *"
 
+  # Allow manual execution
   workflow_dispatch:
 
 concurrency:
@@ -56,7 +58,7 @@ jobs:
           # Stage generated SVG
           git add assets/github-languages.svg
 
-          # Commit only if something changed
+          # Commit only if SVG changed
           if git diff --cached --quiet; then
 
             echo "No changes to language statistics."
