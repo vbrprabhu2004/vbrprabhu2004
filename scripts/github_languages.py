@@ -347,7 +347,7 @@ def main():
     total = sum(languages.values())
 
     print("\n==============================")
-    print("GitHub Language Composition")
+    print("VBRP's GitHub Profile – Language Composition")
     print("==============================")
 
     for language, byte_count in sorted(
