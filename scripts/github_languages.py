@@ -210,7 +210,7 @@ def create_svg(languages):
     svg = []
 
     svg.append(
-        f'''<svg xmlns="http://www.w3.org/2000/svg"
+    f'''<svg xmlns="http://www.w3.org/2000/svg"
 width="{width}"
 height="{height}"
 viewBox="0 0 {width} {height}">
@@ -219,7 +219,7 @@ viewBox="0 0 {width} {height}">
 width="100%"
 height="100%"
 rx="12"
-fill="#0d1117"/>
+fill="#ffffff"/>
 
 <style>
 
@@ -228,7 +228,7 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #ffffff;
+    fill: #24292f;
 }}
 
 .language {{
@@ -236,7 +236,7 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #ffffff;
+    fill: #24292f;
 }}
 
 .percentage {{
@@ -244,7 +244,7 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #8b949e;
+    fill: #57606a;
 }}
 
 </style>
