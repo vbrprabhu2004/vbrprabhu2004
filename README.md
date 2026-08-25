@@ -87,6 +87,6 @@
 <p align="center">
   <img
     src="./assets/github-languages.svg"
-    alt="GitHub Language Composition"
+    alt="VBRP's GitHub Profile – Language Composition"
   />
 </p>
