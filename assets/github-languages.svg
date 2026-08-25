@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 width="900"
-height="390"
-viewBox="0 0 900 390">
+height="259"
+viewBox="0 0 900 259">
 
 <rect
 width="100%"
 height="100%"
 rx="12"
-fill="#0d1117"/>
+fill="#ffffff"/>
 
 <style>
 
@@ -16,7 +16,7 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #ffffff;
+    fill: #24292f;
 }
 
 .language {
@@ -24,7 +24,7 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #ffffff;
+    fill: #24292f;
 }
 
 .percentage {
@@ -32,14 +32,14 @@ fill="#0d1117"/>
     BlinkMacSystemFont,
     "Segoe UI",
     sans-serif;
-    fill: #8b949e;
+    fill: #57606a;
 }
 
 </style>
 
 <text
 x="40"
-y="45"
+y="40"
 class="title">
 GitHub Language Composition
 </text>
@@ -47,31 +47,31 @@ GitHub Language Composition
 
 <rect
 x="40.00"
-y="82"
-width="733.78"
+y="62"
+width="733.52"
 height="32"
 fill="#DA5B0B"/>
 
 
 <rect
-x="773.78"
-y="82"
-width="38.64"
+x="773.52"
+y="62"
+width="38.93"
 height="32"
 fill="#3572A5"/>
 
 
 <rect
-x="812.42"
-y="82"
-width="21.21"
+x="812.44"
+y="62"
+width="21.20"
 height="32"
 fill="#f1e05a"/>
 
 
 <rect
 x="833.64"
-y="82"
+y="62"
 width="20.31"
 height="32"
 fill="#e34c26"/>
@@ -79,7 +79,7 @@ fill="#e34c26"/>
 
 <rect
 x="853.95"
-y="82"
+y="62"
 width="4.54"
 height="32"
 fill="#563d7c"/>
@@ -87,7 +87,7 @@ fill="#563d7c"/>
 
 <rect
 x="858.49"
-y="82"
+y="62"
 width="1.51"
 height="32"
 fill="#b07219"/>
@@ -95,62 +95,62 @@ fill="#b07219"/>
 
 <circle
 cx="40"
-cy="150"
+cy="120"
 r="6"
 fill="#DA5B0B"/>
 
 <text
 x="56"
-y="155"
+y="125"
 class="language">
 Jupyter Notebook
 </text>
 
 <text
 x="200"
-y="155"
+y="125"
 class="percentage">
-89.49%
+89.45%
 </text>
 
 
 <circle
 cx="450"
-cy="150"
+cy="120"
 r="6"
 fill="#3572A5"/>
 
 <text
 x="466"
-y="155"
+y="125"
 class="language">
 Python
 </text>
 
 <text
 x="610"
-y="155"
+y="125"
 class="percentage">
-4.71%
+4.75%
 </text>
 
 
 <circle
 cx="40"
-cy="188"
+cy="158"
 r="6"
 fill="#f1e05a"/>
 
 <text
 x="56"
-y="193"
+y="163"
 class="language">
 JavaScript
 </text>
 
 <text
 x="200"
-y="193"
+y="163"
 class="percentage">
 2.59%
 </text>
@@ -158,20 +158,20 @@ class="percentage">
 
 <circle
 cx="450"
-cy="188"
+cy="158"
 r="6"
 fill="#e34c26"/>
 
 <text
 x="466"
-y="193"
+y="163"
 class="language">
 HTML
 </text>
 
 <text
 x="610"
-y="193"
+y="163"
 class="percentage">
 2.48%
 </text>
@@ -179,20 +179,20 @@ class="percentage">
 
 <circle
 cx="40"
-cy="226"
+cy="196"
 r="6"
 fill="#563d7c"/>
 
 <text
 x="56"
-y="231"
+y="201"
 class="language">
 CSS
 </text>
 
 <text
 x="200"
-y="231"
+y="201"
 class="percentage">
 0.55%
 </text>
@@ -200,20 +200,20 @@ class="percentage">
 
 <circle
 cx="450"
-cy="226"
+cy="196"
 r="6"
 fill="#b07219"/>
 
 <text
 x="466"
-y="231"
+y="201"
 class="language">
 Java
 </text>
 
 <text
 x="610"
-y="231"
+y="201"
 class="percentage">
 0.18%
 </text>
