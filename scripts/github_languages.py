@@ -253,7 +253,7 @@ fill="#ffffff"/>
 x="40"
 y="40"
 class="title">
-GitHub Language Composition
+VBRP's GitHub Profile – Language Composition
 </text>
 '''
     )
