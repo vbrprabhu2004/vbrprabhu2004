@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="390"
+viewBox="0 0 900 390">
+
+<rect
+width="100%"
+height="100%"
+rx="12"
+fill="#0d1117"/>
+
+<style>
+
+.title {
+    font: 700 24px -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+    fill: #ffffff;
+}
+
+.language {
+    font: 600 15px -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+    fill: #ffffff;
+}
+
+.percentage {
+    font: 400 14px -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+    fill: #8b949e;
+}
+
+</style>
+
+<text
+x="40"
+y="45"
+class="title">
+GitHub Language Composition
+</text>
+
+
+<rect
+x="40.00"
+y="82"
+width="733.78"
+height="32"
+fill="#DA5B0B"/>
+
+
+<rect
+x="773.78"
+y="82"
+width="38.64"
+height="32"
+fill="#3572A5"/>
+
+
+<rect
+x="812.42"
+y="82"
+width="21.21"
+height="32"
+fill="#f1e05a"/>
+
+
+<rect
+x="833.64"
+y="82"
+width="20.31"
+height="32"
+fill="#e34c26"/>
+
+
+<rect
+x="853.95"
+y="82"
+width="4.54"
+height="32"
+fill="#563d7c"/>
+
+
+<rect
+x="858.49"
+y="82"
+width="1.51"
+height="32"
+fill="#b07219"/>
+
+
+<circle
+cx="40"
+cy="150"
+r="6"
+fill="#DA5B0B"/>
+
+<text
+x="56"
+y="155"
+class="language">
+Jupyter Notebook
+</text>
+
+<text
+x="200"
+y="155"
+class="percentage">
+89.49%
+</text>
+
+
+<circle
+cx="450"
+cy="150"
+r="6"
+fill="#3572A5"/>
+
+<text
+x="466"
+y="155"
+class="language">
+Python
+</text>
+
+<text
+x="610"
+y="155"
+class="percentage">
+4.71%
+</text>
+
+
+<circle
+cx="40"
+cy="188"
+r="6"
+fill="#f1e05a"/>
+
+<text
+x="56"
+y="193"
+class="language">
+JavaScript
+</text>
+
+<text
+x="200"
+y="193"
+class="percentage">
+2.59%
+</text>
+
+
+<circle
+cx="450"
+cy="188"
+r="6"
+fill="#e34c26"/>
+
+<text
+x="466"
+y="193"
+class="language">
+HTML
+</text>
+
+<text
+x="610"
+y="193"
+class="percentage">
+2.48%
+</text>
+
+
+<circle
+cx="40"
+cy="226"
+r="6"
+fill="#563d7c"/>
+
+<text
+x="56"
+y="231"
+class="language">
+CSS
+</text>
+
+<text
+x="200"
+y="231"
+class="percentage">
+0.55%
+</text>
+
+
+<circle
+cx="450"
+cy="226"
+r="6"
+fill="#b07219"/>
+
+<text
+x="466"
+y="231"
+class="language">
+Java
+</text>
+
+<text
+x="610"
+y="231"
+class="percentage">
+0.18%
+</text>
+
+</svg>
