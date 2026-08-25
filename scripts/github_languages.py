@@ -147,7 +147,7 @@ def create_svg(languages):
         reverse=True,
     )
 
-    # Show top 10 languages.
+    # Show maximum 10 languages.
     MAX_LANGUAGES = 10
 
     if len(sorted_languages) > MAX_LANGUAGES:
@@ -176,13 +176,36 @@ def create_svg(languages):
             (language, byte_count, percentage)
         )
 
+    # --------------------------------------------------
+    # Dynamic SVG dimensions
+    # --------------------------------------------------
+
     width = 900
-    height = 390
+
+    # Two legend columns
+    columns = 2
+
+    # Calculate number of rows required
+    rows = (len(percentages) + columns - 1) // columns
+
+    # Dynamic height based on number of languages
+    title_height = 65
+    bar_height = 55
+    legend_top = 125
+    row_height = 38
+    bottom_padding = 25
+
+    height = (
+        title_height
+        + bar_height
+        + (rows * row_height)
+        + bottom_padding
+    )
 
     bar_x = 40
-    bar_y = 82
+    bar_y = 62
     bar_width = 820
-    bar_height = 32
+    language_bar_height = 32
 
     svg = []
 
@@ -228,14 +251,16 @@ fill="#0d1117"/>
 
 <text
 x="40"
-y="45"
+y="40"
 class="title">
 GitHub Language Composition
 </text>
 '''
     )
 
+    # --------------------------------------------------
     # Stacked language bar
+    # --------------------------------------------------
 
     current_x = bar_x
 
@@ -256,17 +281,18 @@ GitHub Language Composition
 x="{current_x:.2f}"
 y="{bar_y}"
 width="{segment_width:.2f}"
-height="{bar_height}"
+height="{language_bar_height}"
 fill="{color}"/>
 '''
         )
 
         current_x += segment_width
 
-    # Legend
+    # --------------------------------------------------
+    # Dynamic legend
+    # --------------------------------------------------
 
-    legend_y = 155
-    columns = 2
+    legend_y = legend_top
     column_width = 410
 
     for index, (
@@ -279,7 +305,7 @@ fill="{color}"/>
         row = index // columns
 
         x = 40 + column * column_width
-        y = legend_y + row * 38
+        y = legend_y + row * row_height
 
         color = COLORS.get(
             language,
@@ -313,7 +339,6 @@ class="percentage">
     svg.append("</svg>")
 
     return "\n".join(svg)
-
 
 def main():
 
