@@ -81,12 +81,3 @@
 </p>
 
 ---
-
-### 📊 Languages Used (GitHub %)
-
-<p align="center">
-  <img
-    src="./assets/github-languages.svg"
-    alt="VBRP's GitHub Profile – Language Composition"
-  />
-</p>
